@@ -10,7 +10,8 @@
 ### [The link to the book is shown here]: https://learning.oreilly.com/library/view/real-time-big-data/9781449364670/
 
 ## Photo: 
-![sunset](assets/images/IMG_3915.png)
+![sunset](assets/images/IMG_3915.png) #do this to insert img make file path
 <picture> assets/images/IMG_3915.png </picture>
+
 
 
