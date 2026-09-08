@@ -10,6 +10,6 @@
 ### The link to the book is shown here: https://learning.oreilly.com/library/view/real-time-big-data/9781449364670/
 
 ## Photo: 
-<img src="./images/IMG3915.png" alt="sunset">
+![sunset](/BDA594-rubyr/images/IMG3915.png)
 
 
